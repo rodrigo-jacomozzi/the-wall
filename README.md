@@ -18,7 +18,7 @@ source wall-env/bin/activate
 
 The project contains a ``requirements.txt`` file with all libraries used for the project to run
 ```shell
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 If you have trouble using the pip command, refer to their [installation documentation](https://pip.pypa.io/en/stable/installation/).
 
