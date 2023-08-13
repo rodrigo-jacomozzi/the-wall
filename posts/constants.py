@@ -1,2 +1,1 @@
-
 MAX_TEXT_LENGTH = 250
